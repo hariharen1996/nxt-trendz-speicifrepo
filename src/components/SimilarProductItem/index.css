@@ -1,0 +1,53 @@
+/* Write your CSS here */
+.similar-product-lists {
+  list-style: none;
+}
+
+.similar-prod-image {
+  width: 200px;
+}
+
+.similar-heading {
+  color: #171f46;
+  font-weight: 600;
+  font-size: 17px;
+  font-family: 'Roboto';
+}
+
+.similar-text {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 13px;
+}
+
+.similar-price {
+  color: #1e293b;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.category {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.similar-sub-rating {
+  color: #ffffff;
+  font-size: 14px;
+}
+
+.similar-ratings {
+  display: flex;
+  background-color: #3b82f6;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 60px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+.similar-stars {
+  width: 15px;
+}
